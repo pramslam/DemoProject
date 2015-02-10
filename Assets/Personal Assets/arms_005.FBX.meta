@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 0860b3268c72c6a439bf2057f4a34623
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Arms
+    100002: //RootNode
+    100004: elbow_L
+    100006: elbow_R
+    100008: indexFing_L
+    100010: indexFing_R
+    100012: indexKnuc_L
+    100014: indexKnuc_R
+    100016: indexTip_L
+    100018: indexTip_R
+    100020: middleFing_L
+    100022: middleFing_R
+    100024: middleKnuc_L
+    100026: middleKnuc_R
+    100028: middleTip_L
+    100030: middleTip_R
+    100032: neck
+    100034: pinkyFing_L
+    100036: pinkyFing_R
+    100038: pinkyKnuc_L
+    100040: pinkyKnuc_R
+    100042: pinkyTip_L
+    100044: pinkyTip_R
+    100046: ringFing_L
+    100048: ringFing_R
+    100050: ringKnuc_L
+    100052: ringKnuc_R
+    100054: ringTip_L
+    100056: ringTip_R
+    100058: shoulder_L
+    100060: shoulder_R
+    100062: spine
+    100064: thumbFing_L
+    100066: thumbFing_R
+    100068: thumbKnuc_L
+    100070: thumbKnuc_R
+    100072: thumbTip_L
+    100074: thumbTip_R
+    100076: wrist_L
+    100078: wrist_R
+    400000: Arms
+    400002: //RootNode
+    400004: elbow_L
+    400006: elbow_R
+    400008: indexFing_L
+    400010: indexFing_R
+    400012: indexKnuc_L
+    400014: indexKnuc_R
+    400016: indexTip_L
+    400018: indexTip_R
+    400020: middleFing_L
+    400022: middleFing_R
+    400024: middleKnuc_L
+    400026: middleKnuc_R
+    400028: middleTip_L
+    400030: middleTip_R
+    400032: neck
+    400034: pinkyFing_L
+    400036: pinkyFing_R
+    400038: pinkyKnuc_L
+    400040: pinkyKnuc_R
+    400042: pinkyTip_L
+    400044: pinkyTip_R
+    400046: ringFing_L
+    400048: ringFing_R
+    400050: ringKnuc_L
+    400052: ringKnuc_R
+    400054: ringTip_L
+    400056: ringTip_R
+    400058: shoulder_L
+    400060: shoulder_R
+    400062: spine
+    400064: thumbFing_L
+    400066: thumbFing_R
+    400068: thumbKnuc_L
+    400070: thumbKnuc_R
+    400072: thumbTip_L
+    400074: thumbTip_R
+    400076: wrist_L
+    400078: wrist_R
+    4300000: Arms
+    9500000: //RootNode
+    13700000: Arms
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
