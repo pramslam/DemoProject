@@ -1,9 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SpaceNavigator\Editor\SpaceNavigatorWindow.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\LeapMotion\readme.txt">
     <Files>
-      <File FileName="Assets\SpaceNavigator\README.txt" Line="1" Column="1" />
-      <File FileName="Assets\SpaceNavigator\Editor\SpaceNavigatorWindow.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeapMotion\Scripts\Hands\RiggedHand.cs" Line="38" Column="23" />
+      <File FileName="Assets\OVR\Scripts\Util\OVRPlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeapMotion\readme.txt" Line="33" Column="16" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
