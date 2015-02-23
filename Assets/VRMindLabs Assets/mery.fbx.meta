@@ -1,0 +1,2123 @@
+fileFormatVersion: 2
+guid: 3e6f2774edcf34643be1f8737a4c94f3
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Mery_ac_cn_global
+    100004: Mery_ac_cn_vis
+    100006: Mery_geo_cn_band01
+    100008: Mery_geo_cn_band02
+    100010: Mery_geo_cn_band03
+    100012: Mery_geo_cn_band04
+    100014: Mery_geo_cn_band05
+    100016: Mery_geo_cn_belt
+    100018: Mery_geo_cn_body
+    100020: Mery_geo_cn_bodyBase
+    100022: Mery_geo_cn_bodyBase2
+    100024: Mery_geo_cn_bodyBase3
+    100026: Mery_geo_cn_bodyBase4
+    100028: Mery_geo_cn_bodyLegsWrap
+    100030: Mery_geo_cn_bodyLegsWrapBase
+    100032: Mery_geo_cn_bodyLegsWrapBase1
+    100034: Mery_geo_cn_bodyLegsWrapBase2
+    100036: Mery_geo_cn_bodyLegsWrapBase3
+    100038: Mery_geo_cn_bodyLegsWrapBase4
+    100040: Mery_geo_cn_bodyTorsoWrap
+    100042: Mery_geo_cn_bodyTorsoWrapBase
+    100044: Mery_geo_cn_longpants
+    100046: Mery_geo_cn_pants
+    100048: Mery_geo_cn_pin
+    100050: Mery_geo_cn_shirt
+    100052: Mery_geo_cn_shirtpin01
+    100054: Mery_geo_cn_shirtpin02
+    100056: Mery_geo_cn_shirtpin03
+    100058: Mery_geo_cn_shirtpin04
+    100060: Mery_geo_cn_shirtseam01
+    100062: Mery_geo_cn_shirtseam02
+    100064: Mery_geo_cn_shirtseam03
+    100066: Mery_geo_cn_shirtseam04
+    100068: Mery_geo_cn_shorts
+    100070: Mery_geo_cn_skirt
+    100072: Mery_geo_cn_tongue
+    100074: Mery_geo_cn_tshirt
+    100076: Mery_geo_dw_ence
+    100078: Mery_geo_dw_teeth01
+    100080: Mery_geo_dw_teeth02
+    100082: Mery_geo_dw_teeth03
+    100084: Mery_geo_dw_teeth04
+    100086: Mery_geo_dw_teeth05
+    100088: Mery_geo_dw_teeth06
+    100090: Mery_geo_dw_teeth07
+    100092: Mery_geo_dw_teeth08
+    100094: Mery_geo_dw_teeth09
+    100096: Mery_geo_dw_teeth10
+    100098: Mery_geo_dw_teeth11
+    100100: Mery_geo_dw_teeth12
+    100102: Mery_geo_dw_teeth13
+    100104: Mery_geo_dw_teeth14
+    100106: Mery_geo_lf_bracelet01
+    100108: Mery_geo_lf_bracelet02
+    100110: Mery_geo_lf_bracelet03
+    100112: Mery_geo_lf_eye
+    100114: Mery_geo_lf_eye_02
+    100116: Mery_geo_lf_eyebrow
+    100118: Mery_geo_lf_pupile
+    100120: Mery_geo_lf_shoefabric
+    100122: Mery_geo_lf_shoefront
+    100124: Mery_geo_lf_shoelace01
+    100126: Mery_geo_lf_shoelace02
+    100128: Mery_geo_lf_shoelace03
+    100130: Mery_geo_lf_shoelace04
+    100132: Mery_geo_lf_shoelace05
+    100134: Mery_geo_lf_shoelace06
+    100136: Mery_geo_lf_shoelace07
+    100138: Mery_geo_lf_shoelace08
+    100140: Mery_geo_lf_shoelace09
+    100142: Mery_geo_lf_shoelace10
+    100144: Mery_geo_lf_shoelace11
+    100146: Mery_geo_lf_shoelace12
+    100148: Mery_geo_lf_shoelace13
+    100150: Mery_geo_lf_shoelace14
+    100152: Mery_geo_lf_shoelace15
+    100154: Mery_geo_lf_shoelace16
+    100156: Mery_geo_lf_shoelace17
+    100158: Mery_geo_lf_shoelace18
+    100160: Mery_geo_lf_shoelace19
+    100162: Mery_geo_lf_shoetongue
+    100164: Mery_geo_lf_sock
+    100166: Mery_geo_lf_tack01
+    100168: Mery_geo_lf_tack02
+    100170: Mery_geo_lf_tack03
+    100172: Mery_geo_lf_tack04
+    100174: Mery_geo_lf_tack05
+    100176: Mery_geo_lf_tack06
+    100178: Mery_geo_lf_tack07
+    100180: Mery_geo_lf_tack08
+    100182: Mery_geo_lf_tack09
+    100184: Mery_geo_lf_tack10
+    100186: Mery_geo_lf_tack11
+    100188: Mery_geo_lf_tack12
+    100190: Mery_geo_lf_tack13
+    100192: Mery_geo_lf_tack14
+    100194: Mery_geo_lf_tack15
+    100196: Mery_geo_lf_tack16
+    100198: Mery_geo_lf_tack17
+    100200: Mery_geo_lf_tack18
+    100202: Mery_geo_lfdw_eyelash
+    100204: Mery_geo_lfup_eyelash
+    100206: Mery_geo_rg_eye
+    100208: Mery_geo_rg_eye_02
+    100210: Mery_geo_rg_eyebrow
+    100212: Mery_geo_rg_pupile
+    100214: Mery_geo_rg_shoefabric
+    100216: Mery_geo_rg_shoefront
+    100218: Mery_geo_rg_shoelace01
+    100220: Mery_geo_rg_shoelace02
+    100222: Mery_geo_rg_shoelace03
+    100224: Mery_geo_rg_shoelace04
+    100226: Mery_geo_rg_shoelace05
+    100228: Mery_geo_rg_shoelace06
+    100230: Mery_geo_rg_shoelace07
+    100232: Mery_geo_rg_shoelace08
+    100234: Mery_geo_rg_shoelace09
+    100236: Mery_geo_rg_shoelace10
+    100238: Mery_geo_rg_shoelace11
+    100240: Mery_geo_rg_shoelace12
+    100242: Mery_geo_rg_shoelace13
+    100244: Mery_geo_rg_shoelace14
+    100246: Mery_geo_rg_shoelace15
+    100248: Mery_geo_rg_shoelace16
+    100250: Mery_geo_rg_shoelace17
+    100252: Mery_geo_rg_shoelace18
+    100254: Mery_geo_rg_shoelace19
+    100256: Mery_geo_rg_shoetongue
+    100258: Mery_geo_rg_sock
+    100260: Mery_geo_rg_tack01
+    100262: Mery_geo_rg_tack02
+    100264: Mery_geo_rg_tack03
+    100266: Mery_geo_rg_tack04
+    100268: Mery_geo_rg_tack05
+    100270: Mery_geo_rg_tack06
+    100272: Mery_geo_rg_tack07
+    100274: Mery_geo_rg_tack08
+    100276: Mery_geo_rg_tack09
+    100278: Mery_geo_rg_tack10
+    100280: Mery_geo_rg_tack11
+    100282: Mery_geo_rg_tack12
+    100284: Mery_geo_rg_tack13
+    100286: Mery_geo_rg_tack14
+    100288: Mery_geo_rg_tack15
+    100290: Mery_geo_rg_tack16
+    100292: Mery_geo_rg_tack17
+    100294: Mery_geo_rg_tack18
+    100296: Mery_geo_rgdw_eyelash
+    100298: Mery_geo_rgup_eyelash
+    100300: Mery_geo_up_ence
+    100302: Mery_geo_up_teeth01
+    100304: Mery_geo_up_teeth02
+    100306: Mery_geo_up_teeth03
+    100308: Mery_geo_up_teeth04
+    100310: Mery_geo_up_teeth05
+    100312: Mery_geo_up_teeth06
+    100314: Mery_geo_up_teeth07
+    100316: Mery_geo_up_teeth08
+    100318: Mery_geo_up_teeth09
+    100320: Mery_geo_up_teeth10
+    100322: Mery_geo_up_teeth11
+    100324: Mery_geo_up_teeth12
+    100326: Mery_grp_cn_cloth_geo
+    100328: Mery_grp_cn_geo
+    100330: Mery_grp_cn_head_geo
+    100332: Mery_grp_cn_high_geo
+    100334: Mery_grp_cn_shirt_geo
+    100336: Mery_grp_cn_shorts_geo
+    100338: Mery_grp_cn_wraps_geo
+    100340: Mery_grp_dw_teeths_geo
+    100342: Mery_grp_lf_bracelet_geo
+    100344: Mery_grp_lf_shoe_geo
+    100346: Mery_grp_lf_shoelaces_geo
+    100348: Mery_grp_lf_shoetacks_geo
+    100350: Mery_grp_rg_shoe_geo
+    100352: Mery_grp_rg_shoelaces_geo
+    100354: Mery_grp_rg_shoetacks_geo
+    100356: Mery_grp_rig
+    100358: Mery_grp_up_teeths_geo
+    100360: Mery_hair_offset_preview_grp
+    100362: Mery_hair_preview_geo_01
+    100364: Mery_hair_preview_geo_02
+    100366: Mery_hair_preview_geo_03
+    100368: Mery_hair_preview_geo_04
+    100370: Mery_hair_preview_geo_05
+    100372: Mery_hair_preview_geo_06
+    100374: Mery_hair_preview_geo_07
+    100376: Mery_hair_preview_geo_08
+    100378: Mery_hair_preview_geo_09
+    100380: Mery_hair_preview_geo_10
+    100382: Mery_hair_preview_geo_11
+    100384: Mery_hair_preview_geo_12
+    100386: Mery_hair_preview_geo_13
+    100388: Mery_hair_preview_geo_14
+    100390: Mery_hair_preview_geo_15
+    100392: Mery_hair_preview_geo_16
+    100394: Mery_hair_preview_geo_17
+    100396: Mery_hair_preview_geo_18
+    100398: Mery_hair_preview_geo_19
+    100400: Mery_hair_preview_geo_20
+    100402: Mery_hair_preview_geo_21
+    100404: Mery_hair_preview_geo_22
+    100406: Mery_hair_preview_geo_23
+    100408: Mery_hair_preview_geo_24
+    100410: Mery_hair_preview_grp
+    100412: Mery_hair_preview_rig_grp
+    100414: Mery_offset_ac_cn_global
+    100416: Mery_offset_ac_cn_vis
+    400000: //RootNode
+    400002: Mery_ac_cn_global
+    400004: Mery_ac_cn_vis
+    400006: Mery_geo_cn_band01
+    400008: Mery_geo_cn_band02
+    400010: Mery_geo_cn_band03
+    400012: Mery_geo_cn_band04
+    400014: Mery_geo_cn_band05
+    400016: Mery_geo_cn_belt
+    400018: Mery_geo_cn_body
+    400020: Mery_geo_cn_bodyBase
+    400022: Mery_geo_cn_bodyBase2
+    400024: Mery_geo_cn_bodyBase3
+    400026: Mery_geo_cn_bodyBase4
+    400028: Mery_geo_cn_bodyLegsWrap
+    400030: Mery_geo_cn_bodyLegsWrapBase
+    400032: Mery_geo_cn_bodyLegsWrapBase1
+    400034: Mery_geo_cn_bodyLegsWrapBase2
+    400036: Mery_geo_cn_bodyLegsWrapBase3
+    400038: Mery_geo_cn_bodyLegsWrapBase4
+    400040: Mery_geo_cn_bodyTorsoWrap
+    400042: Mery_geo_cn_bodyTorsoWrapBase
+    400044: Mery_geo_cn_longpants
+    400046: Mery_geo_cn_pants
+    400048: Mery_geo_cn_pin
+    400050: Mery_geo_cn_shirt
+    400052: Mery_geo_cn_shirtpin01
+    400054: Mery_geo_cn_shirtpin02
+    400056: Mery_geo_cn_shirtpin03
+    400058: Mery_geo_cn_shirtpin04
+    400060: Mery_geo_cn_shirtseam01
+    400062: Mery_geo_cn_shirtseam02
+    400064: Mery_geo_cn_shirtseam03
+    400066: Mery_geo_cn_shirtseam04
+    400068: Mery_geo_cn_shorts
+    400070: Mery_geo_cn_skirt
+    400072: Mery_geo_cn_tongue
+    400074: Mery_geo_cn_tshirt
+    400076: Mery_geo_dw_ence
+    400078: Mery_geo_dw_teeth01
+    400080: Mery_geo_dw_teeth02
+    400082: Mery_geo_dw_teeth03
+    400084: Mery_geo_dw_teeth04
+    400086: Mery_geo_dw_teeth05
+    400088: Mery_geo_dw_teeth06
+    400090: Mery_geo_dw_teeth07
+    400092: Mery_geo_dw_teeth08
+    400094: Mery_geo_dw_teeth09
+    400096: Mery_geo_dw_teeth10
+    400098: Mery_geo_dw_teeth11
+    400100: Mery_geo_dw_teeth12
+    400102: Mery_geo_dw_teeth13
+    400104: Mery_geo_dw_teeth14
+    400106: Mery_geo_lf_bracelet01
+    400108: Mery_geo_lf_bracelet02
+    400110: Mery_geo_lf_bracelet03
+    400112: Mery_geo_lf_eye
+    400114: Mery_geo_lf_eye_02
+    400116: Mery_geo_lf_eyebrow
+    400118: Mery_geo_lf_pupile
+    400120: Mery_geo_lf_shoefabric
+    400122: Mery_geo_lf_shoefront
+    400124: Mery_geo_lf_shoelace01
+    400126: Mery_geo_lf_shoelace02
+    400128: Mery_geo_lf_shoelace03
+    400130: Mery_geo_lf_shoelace04
+    400132: Mery_geo_lf_shoelace05
+    400134: Mery_geo_lf_shoelace06
+    400136: Mery_geo_lf_shoelace07
+    400138: Mery_geo_lf_shoelace08
+    400140: Mery_geo_lf_shoelace09
+    400142: Mery_geo_lf_shoelace10
+    400144: Mery_geo_lf_shoelace11
+    400146: Mery_geo_lf_shoelace12
+    400148: Mery_geo_lf_shoelace13
+    400150: Mery_geo_lf_shoelace14
+    400152: Mery_geo_lf_shoelace15
+    400154: Mery_geo_lf_shoelace16
+    400156: Mery_geo_lf_shoelace17
+    400158: Mery_geo_lf_shoelace18
+    400160: Mery_geo_lf_shoelace19
+    400162: Mery_geo_lf_shoetongue
+    400164: Mery_geo_lf_sock
+    400166: Mery_geo_lf_tack01
+    400168: Mery_geo_lf_tack02
+    400170: Mery_geo_lf_tack03
+    400172: Mery_geo_lf_tack04
+    400174: Mery_geo_lf_tack05
+    400176: Mery_geo_lf_tack06
+    400178: Mery_geo_lf_tack07
+    400180: Mery_geo_lf_tack08
+    400182: Mery_geo_lf_tack09
+    400184: Mery_geo_lf_tack10
+    400186: Mery_geo_lf_tack11
+    400188: Mery_geo_lf_tack12
+    400190: Mery_geo_lf_tack13
+    400192: Mery_geo_lf_tack14
+    400194: Mery_geo_lf_tack15
+    400196: Mery_geo_lf_tack16
+    400198: Mery_geo_lf_tack17
+    400200: Mery_geo_lf_tack18
+    400202: Mery_geo_lfdw_eyelash
+    400204: Mery_geo_lfup_eyelash
+    400206: Mery_geo_rg_eye
+    400208: Mery_geo_rg_eye_02
+    400210: Mery_geo_rg_eyebrow
+    400212: Mery_geo_rg_pupile
+    400214: Mery_geo_rg_shoefabric
+    400216: Mery_geo_rg_shoefront
+    400218: Mery_geo_rg_shoelace01
+    400220: Mery_geo_rg_shoelace02
+    400222: Mery_geo_rg_shoelace03
+    400224: Mery_geo_rg_shoelace04
+    400226: Mery_geo_rg_shoelace05
+    400228: Mery_geo_rg_shoelace06
+    400230: Mery_geo_rg_shoelace07
+    400232: Mery_geo_rg_shoelace08
+    400234: Mery_geo_rg_shoelace09
+    400236: Mery_geo_rg_shoelace10
+    400238: Mery_geo_rg_shoelace11
+    400240: Mery_geo_rg_shoelace12
+    400242: Mery_geo_rg_shoelace13
+    400244: Mery_geo_rg_shoelace14
+    400246: Mery_geo_rg_shoelace15
+    400248: Mery_geo_rg_shoelace16
+    400250: Mery_geo_rg_shoelace17
+    400252: Mery_geo_rg_shoelace18
+    400254: Mery_geo_rg_shoelace19
+    400256: Mery_geo_rg_shoetongue
+    400258: Mery_geo_rg_sock
+    400260: Mery_geo_rg_tack01
+    400262: Mery_geo_rg_tack02
+    400264: Mery_geo_rg_tack03
+    400266: Mery_geo_rg_tack04
+    400268: Mery_geo_rg_tack05
+    400270: Mery_geo_rg_tack06
+    400272: Mery_geo_rg_tack07
+    400274: Mery_geo_rg_tack08
+    400276: Mery_geo_rg_tack09
+    400278: Mery_geo_rg_tack10
+    400280: Mery_geo_rg_tack11
+    400282: Mery_geo_rg_tack12
+    400284: Mery_geo_rg_tack13
+    400286: Mery_geo_rg_tack14
+    400288: Mery_geo_rg_tack15
+    400290: Mery_geo_rg_tack16
+    400292: Mery_geo_rg_tack17
+    400294: Mery_geo_rg_tack18
+    400296: Mery_geo_rgdw_eyelash
+    400298: Mery_geo_rgup_eyelash
+    400300: Mery_geo_up_ence
+    400302: Mery_geo_up_teeth01
+    400304: Mery_geo_up_teeth02
+    400306: Mery_geo_up_teeth03
+    400308: Mery_geo_up_teeth04
+    400310: Mery_geo_up_teeth05
+    400312: Mery_geo_up_teeth06
+    400314: Mery_geo_up_teeth07
+    400316: Mery_geo_up_teeth08
+    400318: Mery_geo_up_teeth09
+    400320: Mery_geo_up_teeth10
+    400322: Mery_geo_up_teeth11
+    400324: Mery_geo_up_teeth12
+    400326: Mery_grp_cn_cloth_geo
+    400328: Mery_grp_cn_geo
+    400330: Mery_grp_cn_head_geo
+    400332: Mery_grp_cn_high_geo
+    400334: Mery_grp_cn_shirt_geo
+    400336: Mery_grp_cn_shorts_geo
+    400338: Mery_grp_cn_wraps_geo
+    400340: Mery_grp_dw_teeths_geo
+    400342: Mery_grp_lf_bracelet_geo
+    400344: Mery_grp_lf_shoe_geo
+    400346: Mery_grp_lf_shoelaces_geo
+    400348: Mery_grp_lf_shoetacks_geo
+    400350: Mery_grp_rg_shoe_geo
+    400352: Mery_grp_rg_shoelaces_geo
+    400354: Mery_grp_rg_shoetacks_geo
+    400356: Mery_grp_rig
+    400358: Mery_grp_up_teeths_geo
+    400360: Mery_hair_offset_preview_grp
+    400362: Mery_hair_preview_geo_01
+    400364: Mery_hair_preview_geo_02
+    400366: Mery_hair_preview_geo_03
+    400368: Mery_hair_preview_geo_04
+    400370: Mery_hair_preview_geo_05
+    400372: Mery_hair_preview_geo_06
+    400374: Mery_hair_preview_geo_07
+    400376: Mery_hair_preview_geo_08
+    400378: Mery_hair_preview_geo_09
+    400380: Mery_hair_preview_geo_10
+    400382: Mery_hair_preview_geo_11
+    400384: Mery_hair_preview_geo_12
+    400386: Mery_hair_preview_geo_13
+    400388: Mery_hair_preview_geo_14
+    400390: Mery_hair_preview_geo_15
+    400392: Mery_hair_preview_geo_16
+    400394: Mery_hair_preview_geo_17
+    400396: Mery_hair_preview_geo_18
+    400398: Mery_hair_preview_geo_19
+    400400: Mery_hair_preview_geo_20
+    400402: Mery_hair_preview_geo_21
+    400404: Mery_hair_preview_geo_22
+    400406: Mery_hair_preview_geo_23
+    400408: Mery_hair_preview_geo_24
+    400410: Mery_hair_preview_grp
+    400412: Mery_hair_preview_rig_grp
+    400414: Mery_offset_ac_cn_global
+    400416: Mery_offset_ac_cn_vis
+    2300000: Mery_geo_cn_band01
+    2300002: Mery_geo_cn_band02
+    2300004: Mery_geo_cn_band03
+    2300006: Mery_geo_cn_band04
+    2300008: Mery_geo_cn_band05
+    2300010: Mery_geo_cn_belt
+    2300012: Mery_geo_cn_body
+    2300014: Mery_geo_cn_bodyBase
+    2300016: Mery_geo_cn_bodyBase2
+    2300018: Mery_geo_cn_bodyBase3
+    2300020: Mery_geo_cn_bodyBase4
+    2300022: Mery_geo_cn_bodyLegsWrap
+    2300024: Mery_geo_cn_bodyLegsWrapBase
+    2300026: Mery_geo_cn_bodyLegsWrapBase1
+    2300028: Mery_geo_cn_bodyLegsWrapBase2
+    2300030: Mery_geo_cn_bodyLegsWrapBase3
+    2300032: Mery_geo_cn_bodyLegsWrapBase4
+    2300034: Mery_geo_cn_bodyTorsoWrap
+    2300036: Mery_geo_cn_bodyTorsoWrapBase
+    2300038: Mery_geo_cn_longpants
+    2300040: Mery_geo_cn_pants
+    2300042: Mery_geo_cn_pin
+    2300044: Mery_geo_cn_shirt
+    2300046: Mery_geo_cn_shirtpin01
+    2300048: Mery_geo_cn_shirtpin02
+    2300050: Mery_geo_cn_shirtpin03
+    2300052: Mery_geo_cn_shirtpin04
+    2300054: Mery_geo_cn_shirtseam01
+    2300056: Mery_geo_cn_shirtseam02
+    2300058: Mery_geo_cn_shirtseam03
+    2300060: Mery_geo_cn_shirtseam04
+    2300062: Mery_geo_cn_shorts
+    2300064: Mery_geo_cn_skirt
+    2300066: Mery_geo_cn_tongue
+    2300068: Mery_geo_cn_tshirt
+    2300070: Mery_geo_dw_ence
+    2300072: Mery_geo_dw_teeth01
+    2300074: Mery_geo_dw_teeth02
+    2300076: Mery_geo_dw_teeth03
+    2300078: Mery_geo_dw_teeth04
+    2300080: Mery_geo_dw_teeth05
+    2300082: Mery_geo_dw_teeth06
+    2300084: Mery_geo_dw_teeth07
+    2300086: Mery_geo_dw_teeth08
+    2300088: Mery_geo_dw_teeth09
+    2300090: Mery_geo_dw_teeth10
+    2300092: Mery_geo_dw_teeth11
+    2300094: Mery_geo_dw_teeth12
+    2300096: Mery_geo_dw_teeth13
+    2300098: Mery_geo_dw_teeth14
+    2300100: Mery_geo_lf_bracelet01
+    2300102: Mery_geo_lf_bracelet02
+    2300104: Mery_geo_lf_bracelet03
+    2300106: Mery_geo_lf_eye
+    2300108: Mery_geo_lf_eye_02
+    2300110: Mery_geo_lf_eyebrow
+    2300112: Mery_geo_lf_pupile
+    2300114: Mery_geo_lf_shoefabric
+    2300116: Mery_geo_lf_shoefront
+    2300118: Mery_geo_lf_shoelace01
+    2300120: Mery_geo_lf_shoelace02
+    2300122: Mery_geo_lf_shoelace03
+    2300124: Mery_geo_lf_shoelace04
+    2300126: Mery_geo_lf_shoelace05
+    2300128: Mery_geo_lf_shoelace06
+    2300130: Mery_geo_lf_shoelace07
+    2300132: Mery_geo_lf_shoelace08
+    2300134: Mery_geo_lf_shoelace09
+    2300136: Mery_geo_lf_shoelace10
+    2300138: Mery_geo_lf_shoelace11
+    2300140: Mery_geo_lf_shoelace12
+    2300142: Mery_geo_lf_shoelace13
+    2300144: Mery_geo_lf_shoelace14
+    2300146: Mery_geo_lf_shoelace15
+    2300148: Mery_geo_lf_shoelace16
+    2300150: Mery_geo_lf_shoelace17
+    2300152: Mery_geo_lf_shoelace18
+    2300154: Mery_geo_lf_shoelace19
+    2300156: Mery_geo_lf_shoetongue
+    2300158: Mery_geo_lf_sock
+    2300160: Mery_geo_lf_tack01
+    2300162: Mery_geo_lf_tack02
+    2300164: Mery_geo_lf_tack03
+    2300166: Mery_geo_lf_tack04
+    2300168: Mery_geo_lf_tack05
+    2300170: Mery_geo_lf_tack06
+    2300172: Mery_geo_lf_tack07
+    2300174: Mery_geo_lf_tack08
+    2300176: Mery_geo_lf_tack09
+    2300178: Mery_geo_lf_tack10
+    2300180: Mery_geo_lf_tack11
+    2300182: Mery_geo_lf_tack12
+    2300184: Mery_geo_lf_tack13
+    2300186: Mery_geo_lf_tack14
+    2300188: Mery_geo_lf_tack15
+    2300190: Mery_geo_lf_tack16
+    2300192: Mery_geo_lf_tack17
+    2300194: Mery_geo_lf_tack18
+    2300196: Mery_geo_lfdw_eyelash
+    2300198: Mery_geo_lfup_eyelash
+    2300200: Mery_geo_rg_eye
+    2300202: Mery_geo_rg_eye_02
+    2300204: Mery_geo_rg_eyebrow
+    2300206: Mery_geo_rg_pupile
+    2300208: Mery_geo_rg_shoefabric
+    2300210: Mery_geo_rg_shoefront
+    2300212: Mery_geo_rg_shoelace01
+    2300214: Mery_geo_rg_shoelace02
+    2300216: Mery_geo_rg_shoelace03
+    2300218: Mery_geo_rg_shoelace04
+    2300220: Mery_geo_rg_shoelace05
+    2300222: Mery_geo_rg_shoelace06
+    2300224: Mery_geo_rg_shoelace07
+    2300226: Mery_geo_rg_shoelace08
+    2300228: Mery_geo_rg_shoelace09
+    2300230: Mery_geo_rg_shoelace10
+    2300232: Mery_geo_rg_shoelace11
+    2300234: Mery_geo_rg_shoelace12
+    2300236: Mery_geo_rg_shoelace13
+    2300238: Mery_geo_rg_shoelace14
+    2300240: Mery_geo_rg_shoelace15
+    2300242: Mery_geo_rg_shoelace16
+    2300244: Mery_geo_rg_shoelace17
+    2300246: Mery_geo_rg_shoelace18
+    2300248: Mery_geo_rg_shoelace19
+    2300250: Mery_geo_rg_shoetongue
+    2300252: Mery_geo_rg_sock
+    2300254: Mery_geo_rg_tack01
+    2300256: Mery_geo_rg_tack02
+    2300258: Mery_geo_rg_tack03
+    2300260: Mery_geo_rg_tack04
+    2300262: Mery_geo_rg_tack05
+    2300264: Mery_geo_rg_tack06
+    2300266: Mery_geo_rg_tack07
+    2300268: Mery_geo_rg_tack08
+    2300270: Mery_geo_rg_tack09
+    2300272: Mery_geo_rg_tack10
+    2300274: Mery_geo_rg_tack11
+    2300276: Mery_geo_rg_tack12
+    2300278: Mery_geo_rg_tack13
+    2300280: Mery_geo_rg_tack14
+    2300282: Mery_geo_rg_tack15
+    2300284: Mery_geo_rg_tack16
+    2300286: Mery_geo_rg_tack17
+    2300288: Mery_geo_rg_tack18
+    2300290: Mery_geo_rgdw_eyelash
+    2300292: Mery_geo_rgup_eyelash
+    2300294: Mery_geo_up_ence
+    2300296: Mery_geo_up_teeth01
+    2300298: Mery_geo_up_teeth02
+    2300300: Mery_geo_up_teeth03
+    2300302: Mery_geo_up_teeth04
+    2300304: Mery_geo_up_teeth05
+    2300306: Mery_geo_up_teeth06
+    2300308: Mery_geo_up_teeth07
+    2300310: Mery_geo_up_teeth08
+    2300312: Mery_geo_up_teeth09
+    2300314: Mery_geo_up_teeth10
+    2300316: Mery_geo_up_teeth11
+    2300318: Mery_geo_up_teeth12
+    2300320: Mery_hair_preview_geo_01
+    2300322: Mery_hair_preview_geo_02
+    2300324: Mery_hair_preview_geo_03
+    2300326: Mery_hair_preview_geo_04
+    2300328: Mery_hair_preview_geo_05
+    2300330: Mery_hair_preview_geo_06
+    2300332: Mery_hair_preview_geo_07
+    2300334: Mery_hair_preview_geo_08
+    2300336: Mery_hair_preview_geo_09
+    2300338: Mery_hair_preview_geo_10
+    2300340: Mery_hair_preview_geo_11
+    2300342: Mery_hair_preview_geo_12
+    2300344: Mery_hair_preview_geo_13
+    2300346: Mery_hair_preview_geo_14
+    2300348: Mery_hair_preview_geo_15
+    2300350: Mery_hair_preview_geo_16
+    2300352: Mery_hair_preview_geo_17
+    2300354: Mery_hair_preview_geo_18
+    2300356: Mery_hair_preview_geo_19
+    2300358: Mery_hair_preview_geo_20
+    2300360: Mery_hair_preview_geo_21
+    2300362: Mery_hair_preview_geo_22
+    2300364: Mery_hair_preview_geo_23
+    2300366: Mery_hair_preview_geo_24
+    3300000: Mery_geo_cn_band01
+    3300002: Mery_geo_cn_band02
+    3300004: Mery_geo_cn_band03
+    3300006: Mery_geo_cn_band04
+    3300008: Mery_geo_cn_band05
+    3300010: Mery_geo_cn_belt
+    3300012: Mery_geo_cn_body
+    3300014: Mery_geo_cn_bodyBase
+    3300016: Mery_geo_cn_bodyBase2
+    3300018: Mery_geo_cn_bodyBase3
+    3300020: Mery_geo_cn_bodyBase4
+    3300022: Mery_geo_cn_bodyLegsWrap
+    3300024: Mery_geo_cn_bodyLegsWrapBase
+    3300026: Mery_geo_cn_bodyLegsWrapBase1
+    3300028: Mery_geo_cn_bodyLegsWrapBase2
+    3300030: Mery_geo_cn_bodyLegsWrapBase3
+    3300032: Mery_geo_cn_bodyLegsWrapBase4
+    3300034: Mery_geo_cn_bodyTorsoWrap
+    3300036: Mery_geo_cn_bodyTorsoWrapBase
+    3300038: Mery_geo_cn_longpants
+    3300040: Mery_geo_cn_pants
+    3300042: Mery_geo_cn_pin
+    3300044: Mery_geo_cn_shirt
+    3300046: Mery_geo_cn_shirtpin01
+    3300048: Mery_geo_cn_shirtpin02
+    3300050: Mery_geo_cn_shirtpin03
+    3300052: Mery_geo_cn_shirtpin04
+    3300054: Mery_geo_cn_shirtseam01
+    3300056: Mery_geo_cn_shirtseam02
+    3300058: Mery_geo_cn_shirtseam03
+    3300060: Mery_geo_cn_shirtseam04
+    3300062: Mery_geo_cn_shorts
+    3300064: Mery_geo_cn_skirt
+    3300066: Mery_geo_cn_tongue
+    3300068: Mery_geo_cn_tshirt
+    3300070: Mery_geo_dw_ence
+    3300072: Mery_geo_dw_teeth01
+    3300074: Mery_geo_dw_teeth02
+    3300076: Mery_geo_dw_teeth03
+    3300078: Mery_geo_dw_teeth04
+    3300080: Mery_geo_dw_teeth05
+    3300082: Mery_geo_dw_teeth06
+    3300084: Mery_geo_dw_teeth07
+    3300086: Mery_geo_dw_teeth08
+    3300088: Mery_geo_dw_teeth09
+    3300090: Mery_geo_dw_teeth10
+    3300092: Mery_geo_dw_teeth11
+    3300094: Mery_geo_dw_teeth12
+    3300096: Mery_geo_dw_teeth13
+    3300098: Mery_geo_dw_teeth14
+    3300100: Mery_geo_lf_bracelet01
+    3300102: Mery_geo_lf_bracelet02
+    3300104: Mery_geo_lf_bracelet03
+    3300106: Mery_geo_lf_eye
+    3300108: Mery_geo_lf_eye_02
+    3300110: Mery_geo_lf_eyebrow
+    3300112: Mery_geo_lf_pupile
+    3300114: Mery_geo_lf_shoefabric
+    3300116: Mery_geo_lf_shoefront
+    3300118: Mery_geo_lf_shoelace01
+    3300120: Mery_geo_lf_shoelace02
+    3300122: Mery_geo_lf_shoelace03
+    3300124: Mery_geo_lf_shoelace04
+    3300126: Mery_geo_lf_shoelace05
+    3300128: Mery_geo_lf_shoelace06
+    3300130: Mery_geo_lf_shoelace07
+    3300132: Mery_geo_lf_shoelace08
+    3300134: Mery_geo_lf_shoelace09
+    3300136: Mery_geo_lf_shoelace10
+    3300138: Mery_geo_lf_shoelace11
+    3300140: Mery_geo_lf_shoelace12
+    3300142: Mery_geo_lf_shoelace13
+    3300144: Mery_geo_lf_shoelace14
+    3300146: Mery_geo_lf_shoelace15
+    3300148: Mery_geo_lf_shoelace16
+    3300150: Mery_geo_lf_shoelace17
+    3300152: Mery_geo_lf_shoelace18
+    3300154: Mery_geo_lf_shoelace19
+    3300156: Mery_geo_lf_shoetongue
+    3300158: Mery_geo_lf_sock
+    3300160: Mery_geo_lf_tack01
+    3300162: Mery_geo_lf_tack02
+    3300164: Mery_geo_lf_tack03
+    3300166: Mery_geo_lf_tack04
+    3300168: Mery_geo_lf_tack05
+    3300170: Mery_geo_lf_tack06
+    3300172: Mery_geo_lf_tack07
+    3300174: Mery_geo_lf_tack08
+    3300176: Mery_geo_lf_tack09
+    3300178: Mery_geo_lf_tack10
+    3300180: Mery_geo_lf_tack11
+    3300182: Mery_geo_lf_tack12
+    3300184: Mery_geo_lf_tack13
+    3300186: Mery_geo_lf_tack14
+    3300188: Mery_geo_lf_tack15
+    3300190: Mery_geo_lf_tack16
+    3300192: Mery_geo_lf_tack17
+    3300194: Mery_geo_lf_tack18
+    3300196: Mery_geo_lfdw_eyelash
+    3300198: Mery_geo_lfup_eyelash
+    3300200: Mery_geo_rg_eye
+    3300202: Mery_geo_rg_eye_02
+    3300204: Mery_geo_rg_eyebrow
+    3300206: Mery_geo_rg_pupile
+    3300208: Mery_geo_rg_shoefabric
+    3300210: Mery_geo_rg_shoefront
+    3300212: Mery_geo_rg_shoelace01
+    3300214: Mery_geo_rg_shoelace02
+    3300216: Mery_geo_rg_shoelace03
+    3300218: Mery_geo_rg_shoelace04
+    3300220: Mery_geo_rg_shoelace05
+    3300222: Mery_geo_rg_shoelace06
+    3300224: Mery_geo_rg_shoelace07
+    3300226: Mery_geo_rg_shoelace08
+    3300228: Mery_geo_rg_shoelace09
+    3300230: Mery_geo_rg_shoelace10
+    3300232: Mery_geo_rg_shoelace11
+    3300234: Mery_geo_rg_shoelace12
+    3300236: Mery_geo_rg_shoelace13
+    3300238: Mery_geo_rg_shoelace14
+    3300240: Mery_geo_rg_shoelace15
+    3300242: Mery_geo_rg_shoelace16
+    3300244: Mery_geo_rg_shoelace17
+    3300246: Mery_geo_rg_shoelace18
+    3300248: Mery_geo_rg_shoelace19
+    3300250: Mery_geo_rg_shoetongue
+    3300252: Mery_geo_rg_sock
+    3300254: Mery_geo_rg_tack01
+    3300256: Mery_geo_rg_tack02
+    3300258: Mery_geo_rg_tack03
+    3300260: Mery_geo_rg_tack04
+    3300262: Mery_geo_rg_tack05
+    3300264: Mery_geo_rg_tack06
+    3300266: Mery_geo_rg_tack07
+    3300268: Mery_geo_rg_tack08
+    3300270: Mery_geo_rg_tack09
+    3300272: Mery_geo_rg_tack10
+    3300274: Mery_geo_rg_tack11
+    3300276: Mery_geo_rg_tack12
+    3300278: Mery_geo_rg_tack13
+    3300280: Mery_geo_rg_tack14
+    3300282: Mery_geo_rg_tack15
+    3300284: Mery_geo_rg_tack16
+    3300286: Mery_geo_rg_tack17
+    3300288: Mery_geo_rg_tack18
+    3300290: Mery_geo_rgdw_eyelash
+    3300292: Mery_geo_rgup_eyelash
+    3300294: Mery_geo_up_ence
+    3300296: Mery_geo_up_teeth01
+    3300298: Mery_geo_up_teeth02
+    3300300: Mery_geo_up_teeth03
+    3300302: Mery_geo_up_teeth04
+    3300304: Mery_geo_up_teeth05
+    3300306: Mery_geo_up_teeth06
+    3300308: Mery_geo_up_teeth07
+    3300310: Mery_geo_up_teeth08
+    3300312: Mery_geo_up_teeth09
+    3300314: Mery_geo_up_teeth10
+    3300316: Mery_geo_up_teeth11
+    3300318: Mery_geo_up_teeth12
+    3300320: Mery_hair_preview_geo_01
+    3300322: Mery_hair_preview_geo_02
+    3300324: Mery_hair_preview_geo_03
+    3300326: Mery_hair_preview_geo_04
+    3300328: Mery_hair_preview_geo_05
+    3300330: Mery_hair_preview_geo_06
+    3300332: Mery_hair_preview_geo_07
+    3300334: Mery_hair_preview_geo_08
+    3300336: Mery_hair_preview_geo_09
+    3300338: Mery_hair_preview_geo_10
+    3300340: Mery_hair_preview_geo_11
+    3300342: Mery_hair_preview_geo_12
+    3300344: Mery_hair_preview_geo_13
+    3300346: Mery_hair_preview_geo_14
+    3300348: Mery_hair_preview_geo_15
+    3300350: Mery_hair_preview_geo_16
+    3300352: Mery_hair_preview_geo_17
+    3300354: Mery_hair_preview_geo_18
+    3300356: Mery_hair_preview_geo_19
+    3300358: Mery_hair_preview_geo_20
+    3300360: Mery_hair_preview_geo_21
+    3300362: Mery_hair_preview_geo_22
+    3300364: Mery_hair_preview_geo_23
+    3300366: Mery_hair_preview_geo_24
+    4300000: Mery_geo_cn_body
+    4300002: Mery_geo_up_teeth01
+    4300004: Mery_geo_up_teeth02
+    4300006: Mery_geo_up_teeth03
+    4300008: Mery_geo_up_teeth04
+    4300010: Mery_geo_up_teeth05
+    4300012: Mery_geo_up_teeth06
+    4300014: Mery_geo_up_teeth07
+    4300016: Mery_geo_up_teeth08
+    4300018: Mery_geo_up_teeth09
+    4300020: Mery_geo_up_teeth10
+    4300022: Mery_geo_up_teeth11
+    4300024: Mery_geo_up_teeth12
+    4300026: Mery_geo_up_ence
+    4300028: Mery_geo_dw_teeth01
+    4300030: Mery_geo_dw_teeth02
+    4300032: Mery_geo_dw_teeth03
+    4300034: Mery_geo_dw_teeth04
+    4300036: Mery_geo_dw_teeth05
+    4300038: Mery_geo_dw_teeth06
+    4300040: Mery_geo_dw_teeth07
+    4300042: Mery_geo_dw_teeth08
+    4300044: Mery_geo_dw_teeth09
+    4300046: Mery_geo_dw_teeth10
+    4300048: Mery_geo_dw_teeth11
+    4300050: Mery_geo_dw_teeth12
+    4300052: Mery_geo_dw_teeth13
+    4300054: Mery_geo_dw_teeth14
+    4300056: Mery_geo_dw_ence
+    4300058: Mery_geo_cn_tongue
+    4300060: Mery_geo_lf_eyebrow
+    4300062: Mery_geo_rg_eyebrow
+    4300064: Mery_geo_lf_pupile
+    4300066: Mery_geo_lf_eye
+    4300068: Mery_geo_rg_pupile
+    4300070: Mery_geo_rg_eye
+    4300072: Mery_geo_lf_eye_02
+    4300074: Mery_geo_rg_eye_02
+    4300076: Mery_geo_rgup_eyelash
+    4300078: Mery_geo_rgdw_eyelash
+    4300080: Mery_geo_lfup_eyelash
+    4300082: Mery_geo_lfdw_eyelash
+    4300084: Mery_geo_cn_pants
+    4300086: Mery_geo_cn_skirt
+    4300088: Mery_geo_lf_sock
+    4300090: Mery_geo_rg_sock
+    4300092: Mery_geo_cn_belt
+    4300094: Mery_geo_cn_tshirt
+    4300096: Mery_geo_cn_longpants
+    4300098: Mery_geo_lf_bracelet01
+    4300100: Mery_geo_lf_bracelet02
+    4300102: Mery_geo_lf_bracelet03
+    4300104: Mery_geo_cn_shorts
+    4300106: Mery_geo_cn_pin
+    4300108: Mery_geo_cn_band01
+    4300110: Mery_geo_cn_band02
+    4300112: Mery_geo_cn_band03
+    4300114: Mery_geo_cn_band04
+    4300116: Mery_geo_cn_band05
+    4300118: Mery_geo_cn_shirt
+    4300120: Mery_geo_cn_shirtpin01
+    4300122: Mery_geo_cn_shirtpin02
+    4300124: Mery_geo_cn_shirtpin03
+    4300126: Mery_geo_cn_shirtpin04
+    4300128: Mery_geo_cn_shirtseam01
+    4300130: Mery_geo_cn_shirtseam02
+    4300132: Mery_geo_cn_shirtseam03
+    4300134: Mery_geo_cn_shirtseam04
+    4300136: Mery_geo_lf_shoefront
+    4300138: Mery_geo_lf_shoefabric
+    4300140: Mery_geo_lf_shoetongue
+    4300142: Mery_geo_lf_shoelace01
+    4300144: Mery_geo_lf_shoelace02
+    4300146: Mery_geo_lf_shoelace03
+    4300148: Mery_geo_lf_shoelace04
+    4300150: Mery_geo_lf_shoelace05
+    4300152: Mery_geo_lf_shoelace06
+    4300154: Mery_geo_lf_shoelace07
+    4300156: Mery_geo_lf_shoelace08
+    4300158: Mery_geo_lf_shoelace09
+    4300160: Mery_geo_lf_shoelace10
+    4300162: Mery_geo_lf_shoelace11
+    4300164: Mery_geo_lf_shoelace12
+    4300166: Mery_geo_lf_shoelace13
+    4300168: Mery_geo_lf_shoelace14
+    4300170: Mery_geo_lf_shoelace15
+    4300172: Mery_geo_lf_shoelace16
+    4300174: Mery_geo_lf_shoelace17
+    4300176: Mery_geo_lf_shoelace18
+    4300178: Mery_geo_lf_shoelace19
+    4300180: Mery_geo_lf_tack01
+    4300182: Mery_geo_lf_tack02
+    4300184: Mery_geo_lf_tack03
+    4300186: Mery_geo_lf_tack04
+    4300188: Mery_geo_lf_tack05
+    4300190: Mery_geo_lf_tack06
+    4300192: Mery_geo_lf_tack07
+    4300194: Mery_geo_lf_tack08
+    4300196: Mery_geo_lf_tack09
+    4300198: Mery_geo_lf_tack10
+    4300200: Mery_geo_lf_tack11
+    4300202: Mery_geo_lf_tack12
+    4300204: Mery_geo_lf_tack13
+    4300206: Mery_geo_lf_tack14
+    4300208: Mery_geo_lf_tack15
+    4300210: Mery_geo_lf_tack16
+    4300212: Mery_geo_lf_tack17
+    4300214: Mery_geo_lf_tack18
+    4300216: Mery_geo_rg_shoefront
+    4300218: Mery_geo_rg_shoefabric
+    4300220: Mery_geo_rg_shoetongue
+    4300222: Mery_geo_rg_shoelace01
+    4300224: Mery_geo_rg_shoelace02
+    4300226: Mery_geo_rg_shoelace03
+    4300228: Mery_geo_rg_shoelace04
+    4300230: Mery_geo_rg_shoelace05
+    4300232: Mery_geo_rg_shoelace06
+    4300234: Mery_geo_rg_shoelace07
+    4300236: Mery_geo_rg_shoelace08
+    4300238: Mery_geo_rg_shoelace09
+    4300240: Mery_geo_rg_shoelace10
+    4300242: Mery_geo_rg_shoelace11
+    4300244: Mery_geo_rg_shoelace12
+    4300246: Mery_geo_rg_shoelace13
+    4300248: Mery_geo_rg_shoelace14
+    4300250: Mery_geo_rg_shoelace15
+    4300252: Mery_geo_rg_shoelace16
+    4300254: Mery_geo_rg_shoelace17
+    4300256: Mery_geo_rg_shoelace18
+    4300258: Mery_geo_rg_shoelace19
+    4300260: Mery_geo_rg_tack01
+    4300262: Mery_geo_rg_tack02
+    4300264: Mery_geo_rg_tack03
+    4300266: Mery_geo_rg_tack04
+    4300268: Mery_geo_rg_tack05
+    4300270: Mery_geo_rg_tack06
+    4300272: Mery_geo_rg_tack07
+    4300274: Mery_geo_rg_tack08
+    4300276: Mery_geo_rg_tack09
+    4300278: Mery_geo_rg_tack10
+    4300280: Mery_geo_rg_tack11
+    4300282: Mery_geo_rg_tack12
+    4300284: Mery_geo_rg_tack13
+    4300286: Mery_geo_rg_tack14
+    4300288: Mery_geo_rg_tack15
+    4300290: Mery_geo_rg_tack16
+    4300292: Mery_geo_rg_tack17
+    4300294: Mery_geo_rg_tack18
+    4300296: Mery_geo_cn_bodyBase
+    4300298: Mery_geo_cn_bodyBase2
+    4300300: Mery_geo_cn_bodyTorsoWrapBase
+    4300302: Mery_geo_cn_bodyBase3
+    4300304: Mery_geo_cn_bodyTorsoWrap
+    4300306: Mery_geo_cn_bodyLegsWrap
+    4300308: Mery_geo_cn_bodyBase4
+    4300310: Mery_geo_cn_bodyLegsWrapBase
+    4300312: Mery_geo_cn_bodyLegsWrapBase1
+    4300314: Mery_geo_cn_bodyLegsWrapBase2
+    4300316: Mery_geo_cn_bodyLegsWrapBase3
+    4300318: Mery_geo_cn_bodyLegsWrapBase4
+    4300320: Mery_hair_preview_geo_01
+    4300322: Mery_hair_preview_geo_02
+    4300324: Mery_hair_preview_geo_03
+    4300326: Mery_hair_preview_geo_10
+    4300328: Mery_hair_preview_geo_11
+    4300330: Mery_hair_preview_geo_12
+    4300332: Mery_hair_preview_geo_13
+    4300334: Mery_hair_preview_geo_14
+    4300336: Mery_hair_preview_geo_15
+    4300338: Mery_hair_preview_geo_16
+    4300340: Mery_hair_preview_geo_18
+    4300342: Mery_hair_preview_geo_22
+    4300344: Mery_hair_preview_geo_23
+    4300346: Mery_hair_preview_geo_24
+    4300348: Mery_hair_preview_geo_17
+    4300350: Mery_hair_preview_geo_05
+    4300352: Mery_hair_preview_geo_04
+    4300354: Mery_hair_preview_geo_07
+    4300356: Mery_hair_preview_geo_09
+    4300358: Mery_hair_preview_geo_06
+    4300360: Mery_hair_preview_geo_08
+    4300362: Mery_hair_preview_geo_19
+    4300364: Mery_hair_preview_geo_21
+    4300366: Mery_hair_preview_geo_20
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.25
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Mery_grp_cn_geo
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mery_hair_preview_grp
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mery_hair_preview_geo_24
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mery_grp_cn_high_geo
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mery_geo_lf_pupile
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mery_geo_rg_pupile
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: mery_03(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .00999999978, y: .00999999978, z: .00999999978}
+      transformModified: 1
+    - name: Mery_grp_cn_geo
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_grp_cn_high_geo
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_body
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_grp_cn_cloth_geo
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_belt
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_longpants
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_pants
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_skirt
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_tshirt
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_sock
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_sock
+      position: {x: 1.53080855e-15, y: 0, z: 4.4408921e-15}
+      rotation: {x: 6.12323426e-17, y: 1, z: -6.12323426e-17, w: -6.12323426e-17}
+      scale: {x: 1, y: 1, z: -1}
+      transformModified: 1
+    - name: Mery_grp_cn_shirt_geo
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_shirt
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_shirtpin01
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_shirtpin02
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_shirtpin03
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_shirtpin04
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_shirtseam01
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_shirtseam02
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_shirtseam03
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_shirtseam04
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_grp_cn_shorts_geo
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_band01
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_band02
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_band03
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_band04
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_band05
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_pin
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_shorts
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_grp_lf_bracelet_geo
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_bracelet01
+      position: {x: -74.7007065, y: 159.78009, z: -3.92907429}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_bracelet02
+      position: {x: -76.1867752, y: 159.78009, z: -3.8188014}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_bracelet03
+      position: {x: -78.0844803, y: 159.567017, z: -3.63089347}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_grp_cn_head_geo
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_tongue
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_eye
+      position: {x: -5.2675004, y: 187.431259, z: 5.95250034}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_eye_02
+      position: {x: -5.26790667, y: 187.430954, z: 5.95299768}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_eyebrow
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_pupile
+      position: {x: -5.68494368, y: 187.430954, z: 10.484417}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lfdw_eyelash
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lfup_eyelash
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_eye
+      position: {x: 5.2675004, y: 187.431259, z: 5.95250034}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_eye_02
+      position: {x: 5.26790667, y: 187.430954, z: 5.95299768}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_eyebrow
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_pupile
+      position: {x: 5.68494368, y: 187.430954, z: 10.484417}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rgdw_eyelash
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rgup_eyelash
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_grp_dw_teeths_geo
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_dw_ence
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_dw_teeth01
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_dw_teeth02
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_dw_teeth03
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_dw_teeth04
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_dw_teeth05
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_dw_teeth06
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_dw_teeth07
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_dw_teeth08
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_dw_teeth09
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_dw_teeth10
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_dw_teeth11
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_dw_teeth12
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_dw_teeth13
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_dw_teeth14
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_grp_up_teeths_geo
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_up_ence
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_up_teeth01
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_up_teeth02
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_up_teeth03
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_up_teeth04
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_up_teeth05
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_up_teeth06
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_up_teeth07
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_up_teeth08
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_up_teeth09
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_up_teeth10
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_up_teeth11
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_up_teeth12
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_grp_cn_wraps_geo
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_bodyBase
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_bodyBase2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_bodyBase3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_bodyBase4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_bodyLegsWrap
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_bodyLegsWrapBase
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_bodyLegsWrapBase1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_bodyLegsWrapBase2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_bodyLegsWrapBase3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_bodyLegsWrapBase4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_bodyTorsoWrap
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_cn_bodyTorsoWrapBase
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_grp_lf_shoe_geo
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_shoefabric
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_shoefront
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_shoetongue
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_grp_lf_shoelaces_geo
+      position: {x: -.0101482822, y: .585823417, z: -.777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_shoelace01
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_shoelace02
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_shoelace03
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_shoelace04
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_shoelace05
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_shoelace06
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_shoelace07
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_shoelace08
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_shoelace09
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_shoelace10
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_shoelace11
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_shoelace12
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_shoelace13
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_shoelace14
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_shoelace15
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_shoelace16
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_shoelace17
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_shoelace18
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_shoelace19
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_grp_lf_shoetacks_geo
+      position: {x: -.0101482822, y: .585823417, z: -.777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_tack01
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_tack02
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_tack03
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_tack04
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_tack05
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_tack06
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_tack07
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_tack08
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_tack09
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_tack10
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_tack11
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_tack12
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_tack13
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_tack14
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_tack15
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_tack16
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_tack17
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_lf_tack18
+      position: {x: .0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_grp_rg_shoe_geo
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_shoefabric
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_shoefront
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_shoetongue
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_grp_rg_shoelaces_geo
+      position: {x: .0101482822, y: .585823417, z: -.777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_shoelace01
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_shoelace02
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_shoelace03
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_shoelace04
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_shoelace05
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_shoelace06
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_shoelace07
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_shoelace08
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_shoelace09
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_shoelace10
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_shoelace11
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_shoelace12
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_shoelace13
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_shoelace14
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_shoelace15
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_shoelace16
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_shoelace17
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_shoelace18
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_shoelace19
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_grp_rg_shoetacks_geo
+      position: {x: .0101482822, y: .585823417, z: -.777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_tack01
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_tack02
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_tack03
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_tack04
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_tack05
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_tack06
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_tack07
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_tack08
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_tack09
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_tack10
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_tack11
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_tack12
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_tack13
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_tack14
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_tack15
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_tack16
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_tack17
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_geo_rg_tack18
+      position: {x: -.0101482822, y: -.585823417, z: .777284443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_hair_offset_preview_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_hair_preview_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -.843543231, y: -.0421771631, z: -.523814678, w: .110788561}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_hair_preview_geo_01
+      position: {x: -0, y: 194.381805, z: -3.25011301}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_hair_preview_geo_02
+      position: {x: -0, y: 194.381805, z: -3.25011301}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_hair_preview_geo_03
+      position: {x: 12.996357, y: 192.025787, z: -6.21084881}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_hair_preview_geo_10
+      position: {x: -12.3181896, y: 188.906982, z: 1.36753249}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_hair_preview_geo_11
+      position: {x: 13.3820705, y: 192.203827, z: -.374475777}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_hair_preview_geo_12
+      position: {x: -0, y: 185.166611, z: -6.32977104}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_hair_preview_geo_13
+      position: {x: -10.4732418, y: 188.906982, z: -5.65392256}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_hair_preview_geo_14
+      position: {x: .645687342, y: 197.257965, z: -4.50726557}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_hair_preview_geo_15
+      position: {x: 2.36289239, y: 201.579987, z: -7.85783195}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_hair_preview_geo_16
+      position: {x: -.891451359, y: 202.817474, z: -7.66638517}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_hair_preview_geo_18
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_hair_preview_geo_22
+      position: {x: -9.22158146, y: 201.782852, z: .851413965}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_hair_preview_geo_23
+      position: {x: -4.29940367, y: 204.415115, z: 4.01630449}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_hair_preview_geo_24
+      position: {x: 1.82996702, y: 200.963531, z: -19.1283836}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_hair_preview_rig_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_hair_preview_geo_04
+      position: {x: 5.77383089, y: 198.872055, z: 9.80708504}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_hair_preview_geo_05
+      position: {x: -12.1163845, y: 188.906982, z: -.568506241}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_hair_preview_geo_06
+      position: {x: 11.7777309, y: 189.15831, z: 2.30539298}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_hair_preview_geo_07
+      position: {x: 7.578228, y: 198.655838, z: 9.31310558}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_hair_preview_geo_08
+      position: {x: 12.2653437, y: 188.906982, z: .242091298}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_hair_preview_geo_09
+      position: {x: 8.9622221, y: 200.589539, z: 5.28577423}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_hair_preview_geo_17
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_hair_preview_geo_19
+      position: {x: 8.88746548, y: 202.475891, z: 1.06479537}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_hair_preview_geo_20
+      position: {x: 1.43404114, y: 199.693878, z: -17.7336197}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_hair_preview_geo_21
+      position: {x: 1.37579989, y: 200.314774, z: -17.9116421}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_grp_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_offset_ac_cn_global
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_ac_cn_global
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_offset_ac_cn_vis
+      position: {x: -107.639198, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mery_ac_cn_vis
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 

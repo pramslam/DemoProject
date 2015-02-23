@@ -46,7 +46,6 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\CPRChest.cs" />
      <Compile Include="Assets\LeapMotion+OVR\DemoResources\Scripts\BlocksPlaneGenerator.cs" />
      <Compile Include="Assets\LeapMotion+OVR\DemoResources\Scripts\MovementManager.cs" />
      <Compile Include="Assets\LeapMotion+OVR\DemoResources\Scripts\RandomBlocksGenerator.cs" />
@@ -128,10 +127,11 @@
      <Compile Include="Assets\OVR\Scripts\Util\OVRScreenFade.cs" />
      <Compile Include="Assets\OVR\Scripts\Util\OVRUGUI.cs" />
      <Compile Include="Assets\OVR\Scripts\Util\OVRVisionGuide.cs" />
-     <Compile Include="Assets\Personal Assets\menuButton.cs" />
-     <Compile Include="Assets\TriggerCube.cs" />
-     <Compile Include="Assets\chestCollide.cs" />
-     <Compile Include="Assets\palmClass.cs" />
+     <Compile Include="Assets\VRMindLabs Assets\Scripts\CPRChest.cs" />
+     <Compile Include="Assets\VRMindLabs Assets\Scripts\TriggerCube.cs" />
+     <Compile Include="Assets\VRMindLabs Assets\Scripts\chestCollide.cs" />
+     <Compile Include="Assets\VRMindLabs Assets\Scripts\menuButton.cs" />
+     <Compile Include="Assets\VRMindLabs Assets\Scripts\palmClass.cs" />
      <None Include="Assets\LeapMotion\Resources\LeapIRUndistorted.shader" />
      <None Include="Assets\Plugins\donotdelete.txt" />
      <None Include="Assets\LeapMotion\Materials\Sources\Shaders\Toony-Basic.shader" />
